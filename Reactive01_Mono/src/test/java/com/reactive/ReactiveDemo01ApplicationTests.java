@@ -12,7 +12,7 @@ class ReactiveDemo01ApplicationTests {
 
 	@Test
 	void  workingWithMono(){
-
+		System.out.println("Hello");
 	}
 
 }
