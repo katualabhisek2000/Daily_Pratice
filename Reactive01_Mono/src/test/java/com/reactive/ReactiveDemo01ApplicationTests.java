@@ -10,4 +10,9 @@ class ReactiveDemo01ApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void  workingWithMono(){
+
+	}
+
 }
